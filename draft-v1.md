@@ -53,7 +53,7 @@
 
 最后一条是重点。所有人做 AI 落地都会撞上同一道题：客户抓包、产品数据，敢喂给大模型吗？我们的答案是：**模型自己部署，数据不出内网。**公司买卡装大模型，是顺应潮流；但"想清楚把模型放在哪"，是每个要落地的团队绕不开的功课。
 
-![AI Harness 全链路架构（脱敏示意动画）](assets/myjob_anim_v2_2k.gif)
+![AI Harness 全链路架构（脱敏示意动画）](assets/myjob_anim_v2.mp4)
 
 *图 1：AI Harness 全链路架构——自研 Agent 接入 CI/CD，数据不出内网，全程 Human in the loop*
 
