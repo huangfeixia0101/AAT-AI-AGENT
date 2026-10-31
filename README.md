@@ -51,7 +51,7 @@ The architecture in one sentence: **a self-built Agent in the middle, one hand h
 
 That last line is the point. Every team doing AI hits the same wall: customer packet captures, product data — do you dare feed that to a large model? Our answer: **we host the models ourselves; the data never leaves the intranet.** The company bought GPUs and deployed open models as the tide turned; but "deciding where the model lives" is homework every team has to do before anything else.
 
-![AI Harness end-to-end architecture](assets/myjob_anim_v2_2k.gif)
+![AI Harness end-to-end architecture](assets/myjob_anim_v2.mp4)
 
 *Figure 1: The AI Harness end-to-end — a self-built Agent wired into CI/CD, data stays on-prem, human-in-the-loop throughout.*
 
