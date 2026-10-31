@@ -1,5 +1,5 @@
 
-# Putting an AI Agent into a 40-Person Test Organization: Hard-Won Lessons and Real Numbers
+# Putting an AI Agent into a xx-Person Test Organization: Hard-Won Lessons and Real Numbers
 
 Start with three numbers:
 
@@ -9,7 +9,7 @@ Start with three numbers:
 
 I'm not here to share an AI vision. Of the "AI transformation" talks out there, 90% stop at slides and demos; most of the rest are chatbots. This article is about what happens when AI gets wired into a software delivery pipeline that actually runs — with numbers, and with costs.
 
-First, my position: I'm not a machine learning engineer. I run a 40-person test organization at a multinational telecom company — delivery across time zones — and my daily tools are process, CI/CD, and the 3GPP protocol stack. Everything in this article happened on that production line.
+First, my position: I'm not a machine learning engineer. I run a xx-person test organization at a multinational telecom company — delivery across time zones — and my daily tools are process, CI/CD, and the 3GPP protocol stack. Everything in this article happened on that production line.
 
 ## 1. Our reality: when a feature lands
 
@@ -17,7 +17,7 @@ Telecom software delivery has a defining trait: the protocol is fixed, the chang
 
 Every new feature triggers the same four-item checklist for the team: **analyze the protocol and requirements, design and run tests, write documentation, learn the new material.** For an individual, every one of those is pure time burn. Testing one feature used to cost the team about **10 person-days**.
 
-Do the arithmetic on 40 people across multiple countries and time zones: how much of a year goes to "repeated labor" instead of "judgment"?
+Do the arithmetic on xx people across multiple countries and time zones: how much of a year goes to "repeated labor" instead of "judgment"?
 
 ## 2. The starting point: one server and two people
 
@@ -84,7 +84,7 @@ There's no magic. Once case generation, documentation, and result analysis are e
 
 ## 6. The organization is harder than the tech: the best marketing is users who grow a mouth
 
-The technical battles won, the real test began: why should 40 people believe you?
+The technical battles won, the real test began: why should xx people believe you?
 
 My method was dumb but it worked: **find one volunteer per team**, let them use it internally, and improve it week by week on their feedback. I never held an all-hands pitch and never issued a single mandate.
 
@@ -96,7 +96,7 @@ Of course there was anxiety. Test engineers aren't blind: if cases are generated
 
 A few things that don't fit a success story:
 
-- **Efficiency went up; the organization got smaller — and I've decided to say this straight.** Six test teams became three. When case generation, documentation, and result analysis are absorbed by the Harness, the demand for "executing hands" does go down. That's not science fiction; it's happening now. The other half is just as true: the people who remain are no longer executors but decision-makers — what gets filtered out is never "people replaced by AI," it's "people who refuse to go first." Anyone pushing AI adoption owes you this page, not just the efficiency slide.
+- **Efficiency went up; the organization got smaller — and I've decided to say this straight.** xx test teams became x. When case generation, documentation, and result analysis are absorbed by the Harness, the demand for "executing hands" does go down. That's not science fiction; it's happening now. The other half is just as true: the people who remain are no longer executors but decision-makers — what gets filtered out is never "people replaced by AI," it's "people who refuse to go first." Anyone pushing AI adoption owes you this page, not just the efficiency slide.
 - **The crude first version took every insult.** Six weeks to production only works if you accept that version one is ugly.
 - **Luck exists, but it favors the ones who stayed in the game.** The company buying GPUs and deploying open models was the tide; but I could build this system because I had run CI/CD for years, accumulated eighteen years of protocol knowledge, and spent every role thinking about how to make the pipeline faster. Opportunity is what happens when a new tool shows up and you happen to be standing on the pipeline it's about to reshape — and you actually build.
 
@@ -115,5 +115,5 @@ A few things that don't fit a success story:
 
 ---
 
-*The author put an AI Agent into a 40-person software delivery organization. Eighteen years in telecom software delivery; his self-built AI Harness serves 200 engineers in production.
+*The author put an AI Agent into a xx-person software delivery organization. Eighteen years in telecom software delivery; his self-built AI Harness serves 200 engineers in production.
 GitHub: github.com/huangfeixia0101 | Email: huangfeixia0101@163.com*
