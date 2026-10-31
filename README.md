@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/132672ee-49d1-4a27-ae6f-09d26f51ce2e
-
 # Putting an AI Agent into a 40-Person Test Organization: Hard-Won Lessons and Real Numbers
 
 Start with three numbers:
