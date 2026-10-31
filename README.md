@@ -53,7 +53,7 @@ That last line is the point. Every team doing AI hits the same wall: customer pa
 
 ![AI Harness end-to-end architecture](assets/myjob_anim_v2.mp4)
 
-*Figure 1: The AI Harness end-to-end — a self-built Agent wired into CI/CD, data stays on-prem, human-in-the-loop throughout.*
+*Figure 1: The AI Harness end-to-end — a self-built Agent wired into CI/CD, data stays on-prem, human-in-the-loop throughout.* 
 
 ## 5. Three hard battles
 
